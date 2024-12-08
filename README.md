@@ -106,7 +106,7 @@ Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
-   git checkout -b feature-name
+   git checkout -b development
    ```
 3. Commit your changes:
    ```bash
@@ -114,8 +114,10 @@ Contributions are welcome! To contribute:
    ```
 4. Push to the branch:
    ```bash
-   git push origin feature-name
+   git push origin development
    ```
 5. Create a pull request.
 
 ---
+List of contributors:
+- raveenjk
