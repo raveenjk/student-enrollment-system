@@ -130,3 +130,5 @@ List of contributors:
 - rashmishehara
 - Pasindupg
 - WishwaNayanajith
+- AdithyaRusith
+
