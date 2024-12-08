@@ -126,7 +126,7 @@ List of contributors:
 - clasindu
 - rashmishehara
 - HemanthaNevil
-- Shashinipulsara
+- shashipulsara
 - Pasindupg
 - WishwaNayanajith
 - AdithyaRusith
