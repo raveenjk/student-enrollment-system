@@ -127,6 +127,5 @@ List of contributors:
 - rashmishehara
 - HemanthaNevil
 - Shashinipulsara
-- rashmishehara
 - Pasindupg
 - AdithyaRusith
